@@ -7,14 +7,17 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**What is your feature?**
+A clear and concise description of what your feature is
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**What platform is this for?**
+Example: Discord, Minecraft, etc.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Detailed explaination**
+Give a detailed rundown of what this feature should do
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Why should this be added?**
+Give a rundown of what the purpose of this feature is, and who it will benefit
+
+**Additional content**
+Include any supportive text or imagery so that we can better understand your feature [optional]
